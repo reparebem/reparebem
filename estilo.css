@@ -65,8 +65,8 @@ menu{
 body header div h1 {
 text-align: center;
 padding-top: 15px;
-padding-bottom: 30px;
-font-size: 60px;
+padding-bottom: 5px;
+font-size: 45px;
 }
 .caixaBox{
     border: rgb(55, 128, 128) double;
