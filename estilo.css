@@ -6,6 +6,7 @@
     text-decoration: none;
     color: black;
 }
+
 header, object{
     width: 100%;
     overflow: hidden;
@@ -21,7 +22,7 @@ li :hover{
 }
 #cabecalho {
     background-color: rgb(53, 197, 197);
-    height: 260px;
+    height: 220px;
     float: none;
     }
 menu ol li{
