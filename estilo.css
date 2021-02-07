@@ -1,0 +1,77 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+header, object{
+    width: 100%;
+    overflow: hidden;
+}
+ li a{
+    color: white;
+}
+
+li :hover{
+    color: green;
+    background-color: orangered;
+    border-radius: 5px;
+}
+#cabecalho {
+    background-color: rgb(53, 197, 197);
+    height: 220px;
+    float: none;
+    }
+menu ol li{
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline;
+    color: white;
+    font-size: large;
+
+}
+menu ol {
+    background-color: rgb(11, 46, 46);
+    height: 40px;
+}
+menu{
+    padding-top: 20px;
+}
+
+#corpo {
+    margin: auto;
+}
+#conteudo {
+    background-color: rgb(27, 168, 168);
+    min-height: 700px;
+    width: 100%;
+    float: left;
+    
+    
+}
+
+
+#rodape {
+    background-color: rgb(54, 104, 104);
+    height: 100px;
+    float: left;
+    width: 100%;
+}
+
+
+body header div h1 {
+text-align: center;
+padding-top: 15px;
+padding-bottom: 30px;
+font-size: 60px;
+}
+.caixaBox{
+    border: rgb(55, 128, 128) double;
+    width: 90px;
+    height: 90px;
+    margin: 3px;
+    float: left;
+   
+}
