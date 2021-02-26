@@ -22,9 +22,9 @@ li :hover{
 }
 #cabecalho {
     background-color: rgb(53, 197, 197);
-    height: 200px;
+    height: 260px;
     float: none;
-    background-image: url(imagens/reparebem.png);
+    background-image: url(imagens/reparebem2.png);
     background-repeat: no-repeat;
     background-position-x: center;
     }
@@ -39,7 +39,7 @@ menu ol li{
 }
 menu ol {
     background-color: rgb(11, 46, 46);
-    margin-top: 140px ;
+    margin-top: 210px ;
     height: 40px;
     width: 100%;
     
